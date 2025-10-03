@@ -18,7 +18,7 @@ This chatbot can answer mental health queries by retrieving information from PDF
 
 ## 🎨 Demo
 
-![Chatbot Screenshot](images/img1.png)
+![Chatbot Screenshot](images\img1.png)
 
 ---
 
@@ -28,6 +28,7 @@ This chatbot can answer mental health queries by retrieving information from PDF
 
    ```bash
    git clone https://github.com/Deepika-saravanan/Mental-Health-Chatbot-using-GENAI.git
+   cd Mental-Health-Chatbot-using-GENAI
    ```
    
 2. **Create a virtual environment**
