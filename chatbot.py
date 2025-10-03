@@ -9,10 +9,10 @@ from langchain_groq import ChatGroq
 from dotenv import load_dotenv
 import os
 
-load_dotenv()  # loads variables from .env
+load_dotenv() 
 api_key = os.environ.get("GROQ_API_KEY")
 
-# Initialize LLM
+# Initialize the LLM 
 def initialize_llm():
     llm = ChatGroq(
         temperature=0,
