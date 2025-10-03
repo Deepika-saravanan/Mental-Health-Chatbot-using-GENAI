@@ -16,6 +16,12 @@ This chatbot can answer mental health queries by retrieving information from PDF
 
 ---
 
+## 🎨 Demo
+
+![Chatbot Screenshot](images\img1.png)
+
+---
+
 ## 🚀 Installation & Setup
 
 1. **Clone the repository**
